@@ -1,1 +1,1 @@
-# react-microfrontend
+# react-microfrontend-demo
